@@ -1,2 +1,2 @@
 # Newton's Cradle
-By:- Pranjali Joshi
+By:- kailash
